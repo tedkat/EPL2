@@ -1,7 +1,4 @@
 package EPL2;
-BEGIN {
-  $EPL2::VERSION = '0.001';
-}
 # ABSTRACT: A Moosie way to Program EPL2 Printers
 
 use 5.010;
